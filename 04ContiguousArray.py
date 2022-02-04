@@ -1,3 +1,5 @@
+# Question: https://leetcode.com/problems/contiguous-array/
+
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
         max_length =0
@@ -19,3 +21,7 @@ class Solution:
             else:
                 hash[count]=i
         return max_length
+
+# Verdict:
+# Runtime: 955 ms, faster than 54.29% of Python3 online submissions for Contiguous Array.
+# Memory Usage: 19.3 MB, less than 20.79% of Python3 online submissions for Contiguous Array.
