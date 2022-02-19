@@ -23,3 +23,4 @@ Questions as per day are as follows:
 | 16      | Swap nodes in Pairs                    | https://leetcode.com/problems/swap-nodes-in-pairs/                    | Linked Lists (Two Pointer)         | Medium         |
 | 17      | Combination Sum                        | https://leetcode.com/problems/combination-sum/                        | Backtracking                       | Medium         |
 | 18      | Remove K Digits                        | https://leetcode.com/problems/remove-k-digits/                        | Stacks (Greedy)                       | Medium         |
+| 19      | Minimize Deviation in Array                        | https://leetcode.com/problems/minimize-deviation-in-array/                      | Heaps (Greedy)                       | Hard         |
