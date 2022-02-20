@@ -24,3 +24,4 @@ Questions as per day are as follows:
 | 17      | Combination Sum                        | https://leetcode.com/problems/combination-sum/                        | Backtracking                       | Medium         |
 | 18      | Remove K Digits                        | https://leetcode.com/problems/remove-k-digits/                        | Stacks (Greedy)                       | Medium         |
 | 19      | Minimize Deviation in Array                        | https://leetcode.com/problems/minimize-deviation-in-array/                      | Heaps (Greedy)                       | Hard         |
+| 20      | Remove Covered Intervals                        | https://leetcode.com/problems/remove-covered-intervals/                     | Sorting                      | Medium         |
