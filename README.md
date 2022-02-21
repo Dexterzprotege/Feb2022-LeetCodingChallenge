@@ -25,3 +25,4 @@ Questions as per day are as follows:
 | 18      | Remove K Digits                        | https://leetcode.com/problems/remove-k-digits/                        | Stacks (Greedy)                       | Medium         |
 | 19      | Minimize Deviation in Array                        | https://leetcode.com/problems/minimize-deviation-in-array/                      | Heaps (Greedy)                       | Hard         |
 | 20      | Remove Covered Intervals                        | https://leetcode.com/problems/remove-covered-intervals/                     | Sorting                      | Medium         |
+| 21      | Majority Element                        | https://leetcode.com/problems/majority-element/                     | Arrays (Divide-Conquer, Hashing, Sorting)                      | Easy         |
