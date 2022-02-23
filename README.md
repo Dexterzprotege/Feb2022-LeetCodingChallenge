@@ -27,3 +27,4 @@ Questions as per day are as follows:
 | 20      | Remove Covered Intervals                        | https://leetcode.com/problems/remove-covered-intervals/                     | Sorting                      | Medium         |
 | 21      | Majority Element                        | https://leetcode.com/problems/majority-element/                     | Arrays (Divide-Conquer, Hashing, Sorting)                      | Easy         |
 | 22      | Excel Sheet Column Number                        | https://leetcode.com/problems/excel-sheet-column-number/                     | Math                      | Easy         |
+| 23      | Clone Graph                        | https://leetcode.com/problems/clone-graph/                     | Graph (DFS, Backtracking)                      | Medium         |
