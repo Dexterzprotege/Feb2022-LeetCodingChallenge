@@ -28,3 +28,8 @@ Questions as per day are as follows:
 | 21      | Majority Element                        | https://leetcode.com/problems/majority-element/                     | Arrays (Divide-Conquer, Hashing, Sorting)                      | Easy         |
 | 22      | Excel Sheet Column Number                        | https://leetcode.com/problems/excel-sheet-column-number/                     | Math                      | Easy         |
 | 23      | Clone Graph                        | https://leetcode.com/problems/clone-graph/                     | Graph (DFS, Backtracking)                      | Medium         |
+| 24      | Sort List                        | https://leetcode.com/problems/sort-list/                    | Linked Lists (Divide-Conquer, Sorting)                      | Medium         |
+| 25      | Compare Version Numbers                       | https://leetcode.com/problems/compare-version-numbers/                    | String (Two Pointer)                     | Medium         |
+| 26      | Shortest Path Visiting all Nodes                       | https://leetcode.com/problems/shortest-path-visiting-all-nodes/                    | Graphs (BFS, Bit Maniuplation, DP)                    | Hard         |
+| 27      | Maximum Width Binary Tree                       | https://leetcode.com/problems/maximum-width-of-binary-tree/                    | Trees (DFS)                    | Medium         |
+| 28      | Summary Range                       | https://leetcode.com/problems/summary-ranges/                    | Arrays                  | Easy         |
